@@ -35,7 +35,7 @@ A classic 3D arcade rolling game built using the **Unity Engine**. This project 
 
 ### 🌐 Play Instantly in Your Browser (Recommended)
 Skip the installation and play the game directly in your web browser via Unity Play!
-👉 **[Click Here to Play on Unity Play](https://play.unity.com/)** *(Paste your exact game URL right inside these parenthesis!)*
+👉 **https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgqZMY7sp&urlhash=rk_P&mt=oyCoZcXOnLJ8KYH1PlnFVQoXeWRhNkvY6tAefhpl9nkv_ihaZinKQINbtONHwOpfH9WlVg8M-4UsFpLlj1bQSUpgMepTQcq0tUKNmQXsaF4YBlGkueLSEdSQ8tU&isSdui=true(https://play.unity.com/)** *(Paste your exact game URL right inside these parenthesis!)*
 
 ### 🛠️ Run Locally in Unity Editor
 If you want to view the project source or modify the code:
